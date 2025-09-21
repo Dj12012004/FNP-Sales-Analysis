@@ -38,7 +38,7 @@ This Sales Analysis Dashboard presents key insights into order and revenue data 
 7. Cities: Since Tier-2 and Tier-3 cities are ordering well, we may think of localized offers or faster delivery options in these regions.
 8. Delivery & Order Size: Since bigger orders don’t delay delivery, we could reassure customers about reliability and encourage bulk gifting.
 9. Occasions: Some occasions like Diwali are a bit lower in sales; with a little more festive marketing, we might be able to tap into that potential.
-10 .Product-Occasion Fit: Since different products shine in different festivals, tailoring product promotions for each occasion may help boost engagement.
+10. Product-Occasion Fit: Since different products shine in different festivals, tailoring product promotions for each occasion may help boost engagement.
 
 # Conclusion
 The sales analysis shows strong revenue with peaks during Valentine’s Day, Raksha Bandhan, and Anniversaries. Premium gift sets drive the most sales, Tier-2 and Tier-3 cities contribute heavily, and delivery times remain consistent. Overall, the insights highlight key growth areas in occasions, products, and customer behavior
