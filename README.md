@@ -1,6 +1,6 @@
 # Project Overview
 
-This Sales Analysis Dashboard presents key insights into order and revenue data for an e-commerce or gifting business (branded "fnp"). The data visualizations provide a comprehensive overview of sales performance across various dimensions such as occasions, categories, cities, hours, months, and products.
+This project focuses on analyzing the sales data of Ferns and Petals (FNP), a leading gifting company specializing in products for occasions such as Diwali, Raksha Bandhan, Holi, Valentine’s Day, Birthdays, and Anniversaries. The dataset includes detailed information about orders, products, customers, and delivery timelines.
 
 <img width="259" height="194" alt="Image" src="https://github.com/user-attachments/assets/1a21c6a5-aeb8-4af0-bea1-1e877ed518e3" />
 
