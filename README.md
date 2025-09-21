@@ -2,6 +2,8 @@
 
 This Sales Analysis Dashboard presents key insights into order and revenue data for an e-commerce or gifting business (branded "fnp"). The data visualizations provide a comprehensive overview of sales performance across various dimensions such as occasions, categories, cities, hours, months, and products.
 
+<img width="259" height="194" alt="Image" src="https://github.com/user-attachments/assets/1a21c6a5-aeb8-4af0-bea1-1e877ed518e3" />
+
 # Top KPIs
 * Total Orders : 1000
 * Total Revenue : ₹ 35,20,984.00
